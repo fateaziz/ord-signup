@@ -1,10 +1,10 @@
 {
   "vinzhoost@gmail.com°vinzhost°62895324399627": {
     "password": "vinzhost123",
-    "saldo": 0,
+    "saldo": 10000,
     "total_pembelian": 0,
     "total_pengeluaran": 0,
-    "status": false,
+    "status": true,
     "account_create": "2024-08-30 18:14"
   }
 }

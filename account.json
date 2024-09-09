@@ -14,5 +14,13 @@
     "total_pengeluaran": 0,
     "status": true,
     "account_create": "2024-08-30 18:17"
+  },
+  "eakaziz@gmail.com°eakaziz°628991112228": {
+    "password": "Ea4z12kun",
+    "saldo": 0,
+    "total_pembelian": 0,
+    "total_pengeluaran": 0,
+    "status": false,
+    "account_create": "2024-09-09 18:17"
   }
 }
